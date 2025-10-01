@@ -1,1 +1,1 @@
-this project build purpose to collecte data on flipkart web site some specific page through Web Scrap . 
+this project  purpose to collecte data from flipkart website on some specific page through Web Scrap . 
